@@ -95,6 +95,19 @@ If you have tests (e.g., JUnit), they’ll run via your build tool:
 # or
 mvn test
 
+
+
+
+
+<img width="1005" height="936" alt="Screenshot 2025-09-03 231856" src="https://github.com/user-attachments/assets/d384dee8-9613-4c19-a102-0749a903f427" />
+
+
+
+
+
+
+
+
 🛣️ Roadmap Ideas
 
 Add AI opponent (Minimax/Alpha-Beta or MCTS)
